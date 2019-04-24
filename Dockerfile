@@ -1,2 +1,2 @@
 FROM ubuntu:16.04
-RUN bash -c "sleep 100000"
+RUN bash -c "sleep infinity"
